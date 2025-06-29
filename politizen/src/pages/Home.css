@@ -1,0 +1,45 @@
+.home-container {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  color: #555;
+  font-style: italic;
+}
+
+.blurb {
+  margin-top: 2rem;
+}
+
+.us-map {
+  margin-top: 3rem;
+}
+
+.us-map svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.map-placeholder {
+  background-color: #eee;
+  border: 2px dashed #ccc;
+  padding: 4rem;
+  margin-top: 1rem;
+  font-weight: bold;
+  color: #666;
+}
+
+.footer {
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #888;
+}
